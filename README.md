@@ -21,18 +21,24 @@ Before running the project, you need to install the following Python libraries:
 - nltk
 - seaborn
 
+
+
+
+<img width="526" height="291" alt="image" src="https://github.com/user-attachments/assets/67850a46-5b16-4df5-9d3e-053beba3f27b" />
+
+https://maps.app.goo.gl/2uUsBrFkA8bA6f9H9
+
+<img width="807" height="511" alt="image" src="https://github.com/user-attachments/assets/8dd4f071-32a5-4ebe-8474-1217665cb213" />
+
+
+https://qr.ae/pABGnR
+
 You can install all the dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
 
 
-<img width="490" height="301" alt="image" src="https://github.com/user-attachments/assets/51a09b04-a90b-4dfa-8331-ae8f8c33538a" />
-https://maps.app.goo.gl/2uUsBrFkA8bA6f9H9
 
-
-<img width="808" height="514" alt="image" src="https://github.com/user-attachments/assets/afe5453e-4677-49dd-90e8-c0ede44f5387" />
-
-https://qr.ae/pABGnR
 
 
