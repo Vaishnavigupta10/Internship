@@ -25,3 +25,14 @@ You can install all the dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
+
+
+<img width="490" height="301" alt="image" src="https://github.com/user-attachments/assets/51a09b04-a90b-4dfa-8331-ae8f8c33538a" />
+https://maps.app.goo.gl/2uUsBrFkA8bA6f9H9
+
+
+<img width="808" height="514" alt="image" src="https://github.com/user-attachments/assets/afe5453e-4677-49dd-90e8-c0ede44f5387" />
+
+https://qr.ae/pABGnR
+
+
